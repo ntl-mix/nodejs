@@ -1,13 +1,14 @@
 {
-  "name": "nodejs-app",
+  "name": "My Script",
   "version": "1.0.0",
-  "description": "A minimal Node.js web application.",
+  "description": "",
   "main": "index.js",
-  "author": "alphasec",
-  "license": "MIT",
-   "dependencies": {
+  "engines": {
+    "node": "16.13.2"
   },
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "author": "mix",
+  "license": "ISC"
 }
